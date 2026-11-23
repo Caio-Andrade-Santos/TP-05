@@ -8,7 +8,7 @@ import javax.swing.SwingUtilities;
 
 /**
  *
- * @author cavia
+ * Autores: Caio Andreade e Alexandre Zampieri
  */
 public class TP05SQL {
 
